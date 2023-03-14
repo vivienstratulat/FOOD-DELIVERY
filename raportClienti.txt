@@ -1,0 +1,7 @@
+RAPORT CLIENTI CU MAI MULT DE 2 si o suma mai mare de 2
+CLIENTUL: 0 are mai mult de 2 nr comenzi si una din ele are val mai mare de: 2
+RAPORT CLIENTI CU MAI MULT DE 1 si o suma mai mare de 50
+CLIENTUL: 0 are mai mult de 1 nr comenzi si una din ele are val mai mare de: 50
+RAPORT CLIENTI CU MAI MULT DE 1 si o suma mai mare de 50
+RAPORT CLIENTI CU MAI MULT DE 1 si o suma mai mare de 40
+CLIENTUL: 0 are mai mult de 1 nr comenzi si una din ele are val mai mare de: 40
